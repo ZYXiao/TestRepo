@@ -1,0 +1,1 @@
+const testLog = (text) => {console.log(text)}
