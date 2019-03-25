@@ -1,1 +1,5 @@
-const testLog = (text) => {console.log(text)}
+const userName = () => {return '1222233333'}
+
+export default {
+    userName
+}
